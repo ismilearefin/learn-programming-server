@@ -1,18 +1,74 @@
 [
     {
-        "id" : 1,
-        "name" : "web"
+      "id": 1,
+      "name": "Python",
+      "dis": "Python can be regarded as the future of programming languages. As per the latest statistics, Python is the main coding language for around 80% of developers. The presence of extensive libraries in Python facilitates artificial intelligence, data science, and machine learning processes. Currently, Python is trending and can be regarded as the king of programming languages. It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programming Foundation -Self-Paced course where one can learn all the basics in one place. So learning this programming language in 2022 promises you success and growth.",
+      "thum_img": "https://images.unsplash.com/photo-1649180556628-9ba704115795?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=862&q=80",
+      "title": "Learn Python",
+      "card_img": "https://images.unsplash.com/photo-1537884944318-390069bb8665?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "card_dis": "This course is a great introduction to both fundamental programming concepts and the Python programming language.",
+      "rating": 4.8,
+      "student": 58,
+      "price": 499
     },
     {
-        "id" : 2,
-        "name" : "web"
+      "id": 2,
+      "name": "Java",
+      "dis": "Java is one of the most powerful programming languages that is currently used in more than 3 billion devices. Java is currently one of the most trending technology. It is used in desktop applications, mobile applications, web development, Artificial intelligence, cloud applications, and many more. This language gives you exposure to many things and you just need to build a strong foundation with Geeksforgeeks Java Programming Foundation – Self-Paced course. So learning and acing in this technology offers insanely high salaries, amazing growth opportunities, and global recognition.",
+      "thum_img": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "title": "Learn Java",
+      "card_img": "https://images.unsplash.com/photo-1618422168181-177d9d0a1fca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "card_dis": "Java is used to develop mobile apps, web apps, desktop apps, games and much more.",
+      "rating": 5,
+      "student": 89,
+      "price": 499
     },
     {
-        "id" : 3,
-        "name" : "web"
+      "id": 3,
+      "name": "JavaScript",
+      "dis": "JavaScript is one of the world’s most popular programming languages on the web. As per the survey, more than 97 percent of the websites use JavaScript on the client-side of the webpage.It has a well-organized codebase that provides enhanced productivity and readability.  Easy to learn and is highly in demand.Platform independence and greater control of the browser.  Provide user input validation features.The top companies using JavaScript are Microsoft, Uber, PayPal, Google, Walmart, etc.As per the latest statistics, 72% of companies are looking for JavaScript developers. Hence learning Advanced Javascript-Self Paced can be the most amazing decision that you can make in 2022 to fuel your career.",
+      "thum_img": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "title": "Learn JavaScript",
+      "card_img": "https://user-images.githubusercontent.com/65357821/82758846-0394c180-9e0f-11ea-8b02-51f885eff3f5.png",
+      "card_dis": "JavaScript is the world's most popular programming language.",
+      "rating": 4.5,
+      "student": 98,
+      "price": 499
     },
     {
-        "id" : 4,
-        "name" : "web"
+      "id": 4,
+      "name": "Kotlin",
+      "dis": "Kotlin is a cross-platform programming language designed to develop apps. It is being used by more than 60% of android developers. Kotlin beholds fourth place among the fastest-growing programming language on several renowned indices. Some of the prominent features of Kotlin are:Concise code and structured concurrency.Enhanced security features.Coding is approximately 20% less as compared to Java.It is 100% interoperable.Companies working on Kotlin are Pinterest, Uber, Trello, Amazon, etc.So if you are willing to build your career in android app development then learning Kotlin in 2022 is the best choice that you can make.",
+      "thum_img": "https://cdn.plainconcepts.com/wp-content/uploads/2022/03/Kotlin.jpg",
+      "title": "Learn Kotlin",
+      "card_img": "https://images.unsplash.com/photo-1588690154757-badf4644190f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "card_dis": "Learn how Kotlin helped their teams become more productive and write higher quality apps.",
+      "rating": 4.7,
+      "student": 75,
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "C",
+      "dis": "C is a general-purpose programming language that is designed to work efficiently on games, graphics, and enterprise applications. It offers amazing features like:Presence of inbuilt functions and operators.It is extendable.Enhanced speed and efficiency.The top companies using C are GitHub, Telegram messenger, MasterCard, etc.It is highly in demand despite the emergence of new programming languages. C provides the opportunities of building a successful career.",
+      "thum_img": "https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Learn C",
+      "card_img": "https://betanews.com/wp-content/uploads/2016/11/C-language.jpg",
+      "card_dis": "It can be used to develop software like operating systems, databases, compilers, and so on.",
+      "rating": 5,
+      "student": 65,
+      "price": 499
+    },
+    {
+      "id": 6,
+      "name": "PHP",
+      "dis": "PHP is one of the general-purpose scripting languages that will continue to hold its importance in the upcoming years. It is among the first server-side language that can be embedded with HTML to add functionality to web pages. Due to the increasing online trend, PHP developers are in high demand. Some of the astonishing features are:Simple and easy to learn.Faster than other scripting languages.Highly secure to prevent threats and attacks.Amazing websites like Facebook, Yahoo, and Wikipedia run on PHP.",
+      "thum_img": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "title": "Learn PHP",
+      "card_img": "https://uncutpost.com/wp-content/uploads/2022/07/php-programming-language.jpg",
+      "card_dis": "PHP is an acronym for PHP: Hypertext Preprocessor · PHP is a widely-used, open source scripting language .",
+      "rating": 5,
+      "student": 70,
+      "price": 499
     }
-]
+  ]
