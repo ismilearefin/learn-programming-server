@@ -6,18 +6,24 @@ app.use(cors());
 const Port = process.env.Port || 5000;
 const allcourse = require("./Data/course.json");
 
-app.get('/', (res, req)=>{
-    req.send("Good Now You can create your own server");
+app.get('/', (req, res)=>{
+    res.send("Good Now You can create your own server");
 })
 
-app.get('/allcourse', (res,req)=>{
-    req.send(allcourse);
+app.get('/allcourse', (req,res)=>{
+    res.send(allcourse);
+})
+
+
+app.get('/course/:id',(req, res)=>{
+    const id = req.params.id;
+    const course = allcourse?.find((p) => p.id == id);
+    res.send(course);
 })
 
 app.listen(Port, () => {
     console.log("server is running", Port);
 });
 
-// https://my-assignment-server.vercel.app/allcourse
 
 module.exports = app;
