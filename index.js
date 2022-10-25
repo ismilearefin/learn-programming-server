@@ -12,14 +12,16 @@ app.get('/', (req, res)=>{
 
 app.get('/allcourse', (req,res)=>{
     res.send(allcourse);
-})
+});
 
 
 app.get('/course/:id',(req, res)=>{
     const id = req.params.id;
-    const course = allcourse?.find((p) => p.id == id);
+    // console.log(id);
+    const course = allcourse.find((p) => p.id == id);
+    // console.log(course)
     res.send(course);
-})
+});
 
 app.listen(Port, () => {
     console.log("server is running", Port);
